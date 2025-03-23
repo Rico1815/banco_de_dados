@@ -1,5 +1,4 @@
-Banco de Dados: Projeto 1
-Análise e Desenvolvimento de Sistemas - PUCRS
+Banco de Dados: Projeto 1      Análise e Desenvolvimento de Sistemas - PUCRS
 
 
 Apresentação do Projeto
