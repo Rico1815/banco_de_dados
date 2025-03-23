@@ -19,7 +19,9 @@ Folha de rosto com as informações do curso, da disciplina, do autor e a data.
 A imagem do modelo conceitual gerado, criado no software BR Modelo, de forma legível.
 
 A entrega da fase 1 do projeto deve consistir em um arquivo ZIP contendo:
+
 Modelo Conceitual: em formato BR Modelo.
+
 Documento PDF: contendo a folha de rosto e a imagem legível do modelo conceitual.
 
 Esse trabalho visa não apenas a construção do modelo conceitual, mas também a prática na utilização de ferramentas de modelagem, como o BR Modelo, para criar soluções de banco de dados que atendam às necessidades de empresas do setor de construção.
