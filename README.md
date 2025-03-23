@@ -2,7 +2,6 @@ Banco de Dados: Projeto 1
 Análise e Desenvolvimento de Sistemas - PUCRS
 
 
-
 Apresentação do Projeto
 
 Este trabalho tem como objetivo a modelagem e a implementação de uma solução de banco de dados, com base no universo de discurso de um conglomerado de construtoras. O principal desafio é criar um modelo conceitual adequado para gerenciar as obras e recursos das construtoras, abrangendo informações sobre as próprias construtoras, seus trabalhadores, obras, equipamentos e categorias de equipamentos.
